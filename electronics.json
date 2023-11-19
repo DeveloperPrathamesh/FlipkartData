@@ -1,0 +1,60 @@
+{
+    "Electronics":[
+
+    {
+        "category_id":1,
+        "id":1,
+        "name":"Headphones",
+        "description":"Best Headphones",
+        "image":"https://ibb.co/tCnp4jw",
+        "price":599
+    },
+
+    {
+        "category_id":1,
+        "id":2,
+        "name":"oven",
+        "description":"Best oven",
+        "image":"https://ibb.co/HFzFWPY",
+        "price":2499
+    },
+
+    {
+        "category_id":1,
+        "id":3,
+        "name":"Induction",
+        "description":"Best Induction",
+        "image":"https://ibb.co/wJ0xZbD",
+        "price":1599
+    },
+
+    {
+        "category_id":1,
+        "id":4,
+        "name":"Refrigerator",
+        "description":"Best Refrigerator",
+        "image":"https://ibb.co/F8h8pzQ",
+        "price":22999
+    },
+
+    {
+        "category_id":1,
+        "id":5,
+        "name":"water purifier",
+        "description":"Best water purifier",
+        "image":"https://ibb.co/JK2HSsx",
+        "price":3999
+    },
+
+    {
+        "category_id":1,
+        "id":6,
+        "name":"Mixer grinder",
+        "description":"Best Mixer grinder",
+        "image":"https://ibb.co/ZLsdGLt",
+        "price":1399
+    }
+
+    ]
+}
+

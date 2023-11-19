@@ -1,0 +1,59 @@
+{
+    "must_haves":[
+
+    {
+        "category_id":3,
+        "id":1,
+        "name":"soaps",
+        "description":"best deals",
+        "image":"https://ibb.co/T0ph41k",
+        "price":199
+    },
+
+    {
+        "category_id":3,
+        "id":2,
+        "name":"hand washes",
+        "description":"hot deal",
+        "image":"https://ibb.co/x29k37h",
+        "price":149
+    },
+
+    {
+        "category_id":3,
+        "id":3,
+        "name":"personal hygiene",
+        "description":"best handwashes",
+        "image":"https://ibb.co/stP7zqJ",
+        "price":249
+    },
+
+    {
+        "category_id":3,
+        "id":4,
+        "name":"face washes",
+        "description":"best facewashes",
+        "image":"https://ibb.co/ZBD90VW",
+        "price":299
+    },
+
+    {
+        "category_id":3,
+        "id":5,
+        "name":"combo offer",
+        "description":"hot deal",
+        "image":"https://ibb.co/tbHMbZp",
+        "price":399
+    },
+
+    {
+        "category_id":3,
+        "id":6,
+        "name":"floor cleaners",
+        "description":"Best floor cleaners",
+        "image":"https://ibb.co/6BqtVL6",
+        "price":249
+    }
+
+    ]
+}

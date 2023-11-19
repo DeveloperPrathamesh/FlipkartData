@@ -1,0 +1,59 @@
+{
+    "Electronics":[
+
+    {
+        "category_id":2,
+        "id":1,
+        "name":"Iron",
+        "description":"best in price",
+        "image":"https://ibb.co/NTG1jLQ",
+        "price":599
+    },
+
+    {
+        "category_id":2,
+        "id":2,
+        "name":"water heater",
+        "description":"best in water heaters",
+        "image":"https://ibb.co/J7Hv1zx",
+        "price":899
+    },
+
+    {
+        "category_id":2,
+        "id":3,
+        "name":"air cooler",
+        "description":"",
+        "image":"https://ibb.co/hHZRCMG",
+        "price":999
+    },
+
+    {
+        "category_id":2,
+        "id":4,
+        "name":"Air Conditioners",
+        "description":"Top deal",
+        "image":"https://ibb.co/2jprZk2",
+        "price":15999
+    },
+
+    {
+        "category_id":2,
+        "id":5,
+        "name":"Realme smart tv",
+        "description":"Hot deal",
+        "image":"https://ibb.co/7p51z1j",
+        "price":14999
+    },
+
+    {
+        "category_id":2,
+        "id":6,
+        "name":"Poco M4 Pro 4g",
+        "description":"lost price",
+        "image":"https://ibb.co/ZzjwDXc",
+        "price":13999
+    }
+
+    ]
+}

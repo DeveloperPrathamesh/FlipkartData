@@ -1,0 +1,68 @@
+{
+    "Electronics":[
+
+    {
+        "category_id":4,
+        "id":1,
+        "name":"motorola edge",
+        "description":"stunning camera",
+        "image":"https://ibb.co/M75B5PC",
+        "price":14999
+    },
+
+    {
+        "category_id":4,
+        "id":2,
+        "name":"samsung galaxy S22",
+        "description":"next gen",
+        "image":"https://ibb.co/XpXtC39",
+        "price":19999
+    },
+
+    {
+        "category_id":4,
+        "id":3,
+        "name":"realme 11pro 5G",
+        "description":"fast charging",
+        "image":"https://ibb.co/860TgsQ",
+        "price":23999
+    },
+
+    {
+        "category_id":4,
+        "id":4,
+        "name":"google pixel 4",
+        "description":"ultra smooth graphics",
+        "image":"https://ibb.co/h8nGGd1",
+        "price":22999
+    },
+
+    {
+        "category_id":4,
+        "id":5,
+        "name":"vivo T2 pro 5G",
+        "description":"smooth display",
+        "image":"https://ibb.co/267NwdK",
+        "price":17999
+    },
+
+    {
+        "category_id":4,
+        "id":6,
+        "name":"realme 11x 5G",
+        "description":"super smooth display",
+        "image":"https://ibb.co/5KqhbSv",
+        "price":21999
+    },
+
+    {
+        "category_id":4,
+        "id":7,
+        "name":"moto g20",
+        "description":"budget option",
+        "image":"https://ibb.co/JK2HSsx",
+        "price":12999
+    }
+
+    ]
+}

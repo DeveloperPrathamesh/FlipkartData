@@ -1,0 +1,22 @@
+
+[
+    {
+        "order_id": 1,
+        "name": "Pratham",
+        "email": "pratham@gmail.com",
+        "address": "pen",
+        "phone": 9134683232,
+        "cost": 787,
+        "status":""
+    },
+
+    {
+        "order_id": 2,
+        "name": "Rohit",
+        "email": "hitman@gmail.com",
+        "address": "mumbai",
+        "phone": 9145454545,
+        "cost": 264,
+        "status":""
+    }
+]   
